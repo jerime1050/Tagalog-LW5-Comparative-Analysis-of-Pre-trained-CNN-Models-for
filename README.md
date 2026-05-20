@@ -1,6 +1,7 @@
 # Tagalog-LW5-Comparative-Analysis-of-Pre-trained-CNN-Models-for
 
 
+# Google Colab link: https://colab.research.google.com/drive/1hRVcSQb2tU2fFmlNb4Mz4XLoiyfulRTW?usp=drive_link
 
 A. Model Performance
 
